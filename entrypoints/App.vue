@@ -10,7 +10,7 @@ export default {};
 </script>
 
 <template>
-  <div class="whatever">
+  <div>
     {{ new Date() }}
   </div>
 </template>
