@@ -1,0 +1,14 @@
+{
+  "name": "vite-ssr-playground",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node dev"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "chalk": "^4.1.2",
+    "express": "^4.18.1",
+    "sirv": "^2.0.2",
+    "vite": "^4.0.4"
+  }
+}
